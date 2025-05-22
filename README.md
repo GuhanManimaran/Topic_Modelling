@@ -41,11 +41,7 @@ Each row should represent a single news article.
 git clone https://github.com/GuhanManimaran/Topic_Modelling.git
 cd Topic_Modelling
 
-2. **Run**
 
-streamlit run app.py
-
----
 
 
 
